@@ -1,7 +1,10 @@
 <h2 align="center"> Sobre mim: </h2>
+<img align="right" loading="octocaio" src="https://github.com/Caio487/Caio487/assets/93558392/f15f863f-cf7d-4260-9a9c-830a704ff1e8" width="250" height="250"/>
 <p>Olá, me chamo <strong>Caio</strong>.</p>
-<P>Sejam bem vindo ao meu perfil GitHub 🔥</P>
-<p>Sou apaixonado por tudo que envolve tecnologia, educação, cultura e esporte</p>
+<P>Sejam bem vindo ao meu perfil GitHub. 🔥</P>
+<p>Formado em Análise e Desenvolvimento de Sistemas (ADS) e buscando a segunda formação em Ciências da Computação.</p>
+<p>Sou apaixonado cultura, esporte, tecnologia e educação.</p>
+<p><i>"Vivemos todos sob o mesmo céu, mas nem todos temos o mesmo horizonte" Konrad Adenauer</i></p>
 
 
 <h2 align="center"> Ferramentas e Tecnologias de uso e aprendizagem: </h2>
